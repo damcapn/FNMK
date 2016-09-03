@@ -1,0 +1,7 @@
+/* This controls my background image. */
+body {
+  background: url("../images/maverick1.jpg") no-repeat center center;
+  background-size: cover;
+  background-position: 10% 10%;
+  position: relative;
+}
