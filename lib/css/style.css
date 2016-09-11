@@ -1,7 +1,32 @@
 /* This controls my background image. */
 body {
-  background: url("../images/FNMK.jpg") no-repeat center center;
-  background-image size: cover;
+  background: url("../images/spaceScape.jpg") no-repeat center center;
+  background-size: cover;
   background-position: 10% 10%;
   position: relative;
+}
+
+.text {
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Architects Daughter';
+  color: white;
+}
+
+.logo {
+  background-image: url("../images/YNFTlogo2.png") no-repeat center center;
+  height: 400px;
+  width: 900px;
+  background-position: 10% 10%;
+  position: relative;
+}
+
+h3 {
+  font-family: 'Covered By Your Grace';
+  color: red;
+}
+
+p {
+  font-family: 'Architects Daughter';
+  color: red;
 }

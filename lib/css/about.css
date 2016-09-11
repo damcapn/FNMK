@@ -1,7 +1,0 @@
-/* This controls my background image. */
-body {
-  background: url("../images/FNMK.jpg") no-repeat center center;
-  background-image size: cover;
-  background-position: 10% 10%;
-  position: relative;
-}
