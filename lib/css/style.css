@@ -14,11 +14,11 @@ body {
 }
 
 .logo {
-  background-image: url("../images/YNFTlogo2.png") no-repeat center center;
+  background-image: url("../images/YNFTlogo2.png");
+  background-image: no-repeat center center;
   height: 400px;
   width: 900px;
-  background-position: 10% 10%;
-  position: relative;
+  margin: auto auto;
 }
 
 h3 {
@@ -29,4 +29,14 @@ h3 {
 p {
   font-family: 'Architects Daughter';
   color: red;
+}
+
+footer {
+  margin: 10px auto;
+  height: 15vh;
+  width: 100vw;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Rock Salt';
+  color: white;
 }

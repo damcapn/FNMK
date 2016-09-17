@@ -6,9 +6,13 @@
     <?php require_once("headutils.php");?>
   <!--  <link rel="short icon" href="lib/images/logo4.ico"/> -->
     <link rel="stylesheet" href="lib/css/style.css">
+    <link rel="stylesheet" href="lib/css/navbar.css">
 
   </head>
   <body>
+    <!-- This calls the navbar to the page. -->
+      <?php require_once("navbar.php");?>
+
     <!-- This calls the background-image. -->
     <div class="container" id="spaceScape.jpg"></div>
 
@@ -55,7 +59,7 @@
         <div class="thumbnail">
           <img src="lib/images/rfr.jpg" alt="KOH">
           <div class="caption">
-            <h3> Sarcasm is the honest to got truth of our subliminal minds...</h3>
+            <h3> Write that down...</h3>
             <p> sarcasm<br>särˌkazəm<br>noun<br>
                 the use of irony to mock or convey contempt,
                 while insuating truth of the mockery.</p>
@@ -66,7 +70,11 @@
     </div>
 
 <hr>
-
+<footer>
+  <p>Posted by: "Dam Cap'n"</p>
+  <p>Contact information: <a href="mailto:dafnmemekings.666@gmail.com">
+    dafnmemekings.666@gmail.com</a>.</p>
+</footer>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
   </body>
