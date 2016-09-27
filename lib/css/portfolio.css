@@ -1,24 +1,27 @@
-/* This controls my background image. */
 body {
   background: url("../images/spaceScape.jpg") no-repeat center center;
   background-size: cover;
   background-position: 10% 10%;
   position: relative;
-  color: #333;
-  padding: 20px;
-  text-align: center;
-  font-family: Arial;
 }
 
-.text {
+h3 {
   text-align: center;
-  font-size: 50px;
+  font-family: 'Covered By Your Grace';
+  font-size: 40px;
+  color: black;
+}
+
+p {
+  text-align: center;
   font-family: 'Architects Daughter';
-  color: white;
+  font-size: 20px;
+  color: red;
 }
 
-/* This controls the image logo position.*/
-.image {
-  margin: center;
-  padding-left: 250px;
+footer {
+  font-family: 'Black Ops One';
+  font-size: 25px;
+  color: red;
+  text-align: center;
 }

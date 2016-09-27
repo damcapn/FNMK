@@ -22,51 +22,11 @@
     </header>
     <hr>
 
-    <div class="logo">
-      <image class="YNFTlogo2.png">
-      <div class="image" src="lib/images/YNFTlogo2.png" alt="KOH">
+    <!-- This calls the logo.-->
+    <div class="container">
+      <div class="image" href="lib/images/notFunny.jpg">
+        <img src="lib/images/notFunny.jpg" class="img-responsive" alt="Responsive image">
       </div>
-    </div>
-
-    <div class="row">
-      <div class="col-sm-6 col-md-4">
-        <div class="thumbnail">
-          <img src="lib/images/betterThanTwilight.jpg" alt="KOH">
-          <div class="caption">
-            <h3> Original Content Only! </h3>
-            <p>meme<br>mēm<br>noun<br>
-               an element of a culture or system of behavior that may
-               be considered to be passed from one individual to another
-               by nongenetic means, especially imitation.<br>
-               a humorous image, video, piece of text, etc. that is copied
-               (often with slight variations) and spread rapidly by Internet users.</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-6 col-md-4">
-        <div class="thumbnail">
-          <img src="lib/images/doMyBest.jpg" alt="KOH">
-          <div class="caption">
-            <h3> Laughter is the best medicine... </h3>
-            <p> humor<br>(h)yo͞omər/Submit<br>noun<br>
-                The quality of being amusing or comic, especially as expressed in literature or speech.</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-6 col-md-4">
-        <div class="thumbnail">
-          <img src="lib/images/rfr.jpg" alt="KOH">
-          <div class="caption">
-            <h3> Write that down...</h3>
-            <p> sarcasm<br>särˌkazəm<br>noun<br>
-                the use of irony to mock or convey contempt,
-                while insuating truth of the mockery.</p>
-          </div>
-        </div>
-      </div>
-
     </div>
 
 <hr>
